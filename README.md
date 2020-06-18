@@ -1,2 +1,1 @@
-# data-science-I
-Exploring data
+# Analisando Dados com Pandas, Matplotlib, Seaborn.
